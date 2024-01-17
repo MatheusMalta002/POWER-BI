@@ -15,6 +15,6 @@
 
 ## Relatório
 
-https://app.powerbi.com/links/8UbFHAraMm?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare
+https://app.powerbi.com/links/V0dtM3W9Dv?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare&bookmarkGuid=c8f65f26-b53d-4398-aaf6-60c63843c195
 
 ![image](https://github.com/MatheusMalta002/POWER-BI/assets/104574086/e047a96d-26bb-4a1c-ad7f-3a802240965b)
