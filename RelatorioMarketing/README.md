@@ -29,3 +29,17 @@ Marketing  é  o  processo  de  planejar  e  executar  a  concepção,  preço, 
 * Engajamento
 * Net  Promoter  Score  (NPS)
 * Tráfego do website
+
+## Relatório 
+https://app.powerbi.com/links/IZZXx7Zm8u?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare&bookmarkGuid=f51b0545-8f10-4eb2-8a01-7edb4d103d28
+
+![image](https://github.com/MatheusMalta002/POWER-BI/assets/104574086/ddc45c33-f391-4d91-994c-0cfcfeccd85b)
+
+![image](https://github.com/MatheusMalta002/POWER-BI/assets/104574086/398e9f82-5aa4-4352-808f-8f0b1c4791b5)
+
+![image](https://github.com/MatheusMalta002/POWER-BI/assets/104574086/1567cff2-4e83-404a-99fe-499a0f14cdb9)
+
+![image](https://github.com/MatheusMalta002/POWER-BI/assets/104574086/44abf818-5e3c-4c13-a0a3-130b4947c7d2)
+
+
+
