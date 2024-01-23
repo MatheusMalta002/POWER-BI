@@ -1,31 +1,50 @@
-# Aprendizado de Power BI para Business Intelligence e Data Science
+# Power BI para Business Intelligence e Data Science 📊 
 
-Este repositório contém todos os artefatos da minha jornada de aprendizado de Power BI para Business Intelligence e Data Science com a Data Science Academy.
+Este repositório contém todos os projetos desenvolvidos da minha jornada de aprendizado de Power BI para Business Intelligence e Data Science fornecidos pelo curso gratuito de 72 horas pela Data Science Academy.
 
-## Sobre o Power BI
+## :pushpin: Aprendizados
 
-O Power BI é uma suíte de ferramentas de análise de negócios que permite que você visualize seus dados e compartilhe insights em toda a organização, ou os incorpora em um aplicativo ou site.
-
-## O que vou aprender
-
-Aprendizados durante este curso:
-
-1. **Introdução ao Power BI**: Entender o que é Power BI e por que é uma ferramenta poderosa para visualização de dados e Business Intelligence.
-
-2. **Importação e Transformação de Dados - ETL**: Aprender a importar dados de várias fontes e como transformá-los para análise.
-
-3. **Modelagem de Dados**: Aprender a criar relações entre diferentes conjuntos de dados e a criar modelos de dados eficazes.
+1. **Importação e Transformação de Dados (ETL)**: importar dados de várias fontes e transformá-los para análise.
    
-5. **Fórmulas DAX**: Aprender criação de fórmulas para conseguir análises mais avançadas no dashboard.
+3. **Modelagem de Dados**: criação relações entre diferentes conjuntos de dados.
+   
+5. **Fórmulas DAX**: criação de fórmulas para conseguir análises mais avançadas no dashboard.
+   
+7. **Linguagem M**: utilização da linguagem M para engenharia de requisitos.
 
-6. **Criação de Relatórios**: Aprender a criar relatórios interativos e painéis de controle.
+8. **Criação de Relatórios**: criação de relatórios interativos e painéis de controle.
 
-7. **Publicação e Compartilhamento de Relatórios**: Aprender a publicar e compartilhar relatórios e painéis de controle.
+9. **Publicação e Compartilhamento de Relatórios**: publicação e compartilhamento de relatórios e painéis de controle.
 
-8. **Power BI e Data Science**: Entender como o Power BI pode ser usado em Data Science.
+10. **Power BI + Data Science**: Construção de modelos de machine learning não supervisionados para segmentação, detecção de anomalias e series temporais
 
-## Projetos
+## :pushpin: Projetos
 
-Este repositório também conterá projetos que estarei trabalhando para aplicar o que aprendi.
+```Markdown
+# Business Intelligence
+```
+* <a href='https://app.powerbi.com/links/IZZXx7Zm8u?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare&bookmarkGuid=7b9501cd-0077-4f01-b1e4-81457be30ad8'>Relatório para Análise de Marketing</a>
+* <a href='https://app.powerbi.com/links/Q5SSVoFAhU?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare'>Relatório para Análise da Área Comercial</a>
+* <a href='https://app.powerbi.com/links/h2TmUK9Dic?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare&bookmarkGuid=aff999e5-f55c-41ad-b66b-20437a31c680'>Relatório para Análise da Área de RH</a>
+* <a href='https://app.powerbi.com/links/ugYEd6zRMK?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare'>Relatório para Análise da Área Logística</a>
+* <a href='https://app.powerbi.com/links/trC9yS4aNy?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare&bookmarkGuid=d63f91fc-3ca5-4f2a-b623-7e2dcb715291'>Relatório para Análise da Área Financeira</a>
+* <a href='https://app.powerbi.com/links/nfmoH_BgJi?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare'>Relatório para Análise da Área Contábil</a>
+* <a href='https://app.powerbi.com/links/JELpfZET4v?ctid=38f6f6e1-e721-4072-b879-9c90b41d8ac7&pbi_source=linkShare'>Relatório para Análise do Mercado de Ações</a>
+  
+```Markdown
+# Data Science
+```
+* Segmentação de clientes com machine learning
+* Detecção de anomalias em transações financeiras com machine learning
+* Análise de Series Temporais usando IA 
 
-Fique à vontade para explorar este repositório e entrar em contato se tiver alguma dúvida ou comentário.
+
+## :pushpin: Tecnologias utilizadas:
+<img height='30px' src='https://img.shields.io/badge/python-0000FF?style=for-the-badge&logo=python&logoColor=yellow'/>
+<img height='30px' src='https://img.shields.io/badge/R Language-3B3B3B?style=for-the-badge&logo=R&logoColor=white'/>
+<img height='30px' src='https://img.shields.io/badge/Power BI-FFCC00?style=for-the-badge&logo=powerbi&logoColor=black'/>
+
+## 
+
+![status](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
