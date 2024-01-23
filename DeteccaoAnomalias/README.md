@@ -14,7 +14,7 @@ A detecção de anomalias, também conhecida como detecção de outliers, é uma
 
 > * **Aprendizado Não Supervisionado:** Neste caso, o algoritmo de Machine Learning é usado para analisar dados não rotulados e identificar padrões ou agrupamentos naturais neles. As anomalias são identificadas como pontos de dados que não se encaixam bem em nenhum desses agrupamentos ou que estão significativamente distantes de outros pontos de dados.
 
-> * **Algoritmo de clusterização:**  K-means
+> * **Algoritmo de Detecção:** Isolation Forest
 
 ## 📌 Ferramentas 
 <img height='25px' src='https://img.shields.io/badge/R Language-3B3B3B?style=for-the-badge&logo=R&logoColor=white'/>
